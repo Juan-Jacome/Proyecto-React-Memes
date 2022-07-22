@@ -2,9 +2,12 @@
 
 Desarrollado por: Juan Andres Jacome
  
- Link github: https://github.com/Juan-Jacome/deploy-video.git
+Link github: https://github.com/Juan-Jacome/Proyecto-React-Memes
 
-Link del deployment: https://aqueous-everglades-59691.herokuapp.com/
+Link del deployment: https://nameless-woodland-29089.herokuapp.com/
+
+Link proyecto base: https://www.youtube.com/watch?v=rtQKP1we-Dk&t=259s
+                    https://imgflip.com/api
 
 Título del proyecto: Creador Memes (React) 
 
