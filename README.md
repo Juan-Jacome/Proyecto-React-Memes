@@ -1,70 +1,19 @@
-# Getting Started with Create React App
+#README
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Desarrollado por: Juan Andres Jacome
+ 
+ Link github: https://github.com/Juan-Jacome/deploy-video.git
 
-## Available Scripts
+Link del deployment: https://aqueous-everglades-59691.herokuapp.com/
 
-In the project directory, you can run:
+Título del proyecto: Creador Memes (React) 
 
-### `npm start`
+Descripción del proyecto: 
+Es una pequeña aplicación que cumple con la función de generar memes a partir de una API. Al pulsar el botón "siguiente meme" el usuario podrá ver los memes de manera aleatoria hasta que encuentre uno que le guste, luego tendrá que ingresar texto en cada uno de los contenedores para generar el meme. Una vez pulsado el botón generar meme se dirige a una nueva vista donde se muestra la imagen del meme con el texto ingresado, tendrá la opción de copiar el enlace de la imagen generada y se guardará dentro del portapapeles, también tendrá la opción de regresar a la página principal para seguir generando nuevos memes.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Información API:
+Enlace del API: https://imgflip.com/api
+La API de Imgflip utiliza una interfaz RESTful JSON. Las solicitudes a la API pueden tener una tasa limitada si realiza muchas solicitudes. Actualmente no existe una versión paga de la API, pero podemos crear una si hay suficientes aplicaciones que necesitan más solicitudes de las que podemos cumplir de forma gratuita. Si está considerando usar esta API, no dude en contactarnos en general@imgflip.com con cualquier pregunta, sugerencia o inquietud que pueda tener.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Información adicional:
+npm version: 8.14.0

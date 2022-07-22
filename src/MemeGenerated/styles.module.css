@@ -1,0 +1,14 @@
+.container {
+    margin-top: 40px;
+  }
+
+  .regresar{
+    background-color: #9d1304;
+    border-radius: 25px;
+  }
+  
+  .copiar {
+    background-color: #511dd4;
+    margin-top: 20px;
+    border-radius: 25px;
+  }

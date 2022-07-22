@@ -1,0 +1,13 @@
+.container {
+    margin-top: 40px;
+  }
+
+  .generar {
+    background-color: #237c2f;
+    border-radius: 25px;
+  }
+  
+  .saltar {
+    background-color: #560808;
+    border-radius: 25px;
+  }
